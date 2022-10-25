@@ -1,6 +1,3 @@
-[![Status](https://github.com/Nuzhny007/Non-Maximum-Suppression/actions/workflows/cmake.yml/badge.svg?branch=master)](https://github.com/Nuzhny007/Non-Maximum-Suppression/actions?query=workflow%3Aci-build)
-
-#### News: added soft nms!
 
 # Non-Maximum-Suppression
 C++ implementation of Non-Maximum Suppression algorithm.
